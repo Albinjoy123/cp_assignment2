@@ -19,4 +19,4 @@ two variables. During this if the values of sum becomes equal to the value of th
 mentioned condition for WON is executed. Whereas if the sum becomes 7 during this loop the player loses the game and the above mentioned condition
 for LOST is executed.
 This is how the game seems to work upon the code provided to us.
-© 2019 GitHub, Inc.
+
